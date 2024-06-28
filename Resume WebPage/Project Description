@@ -1,0 +1,58 @@
+Resume Page Project
+Welcome to my Resume Page project! This repository contains the source code for a professional resume webpage built using HTML and CSS. The project showcases my skills in web development and design, providing a clean, responsive, and visually appealing resume page.
+
+Table of Contents
+Overview
+Features
+Technologies Used
+Getting Started
+Usage
+Screenshots
+Contributing
+License
+Contact
+Overview
+This project demonstrates how to create a resume webpage using basic web technologies. The page is designed to be fully responsive, ensuring it looks great on all devices, from desktops to mobile phones. The code is clean and well-documented, making it easy to customize.
+
+Features
+Responsive design
+Clean and modern layout
+Easy to customize
+Well-documented code
+Uses only HTML and CSS
+
+Technologies Used
+HTML5: For structuring the webpage
+CSS3: For styling the webpage
+
+Getting Started
+To get a local copy up and running, follow these simple steps.
+
+Prerequisites
+You need a web browser to view the resume page.
+
+bash
+Copy code
+cd resume-page
+Open the HTML file in your web browser:
+Open index.html in your preferred web browser to view the resume page.
+
+Usage
+You can use this project as a template for creating your own resume webpage. Customize the HTML and CSS files to add your personal information, skills, work experience, and education.
+
+Customization
+HTML: Update the content in Resume.html with your own information.
+CSS: Modify the styles in Resume.css to change the appearance of the resume page.
+Screenshots
+
+Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, feel free to reach out:
+
+Email: muhammadshariqfazal@gmail.com
+GitHub: shariq001
