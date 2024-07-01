@@ -1,0 +1,37 @@
+Job Application Form Webpage
+This project is a simple, yet fully functional job application form created using HTML and CSS. The form is designed to capture 
+essential applicant details and provides a user-friendly interface for submitting job applications. 
+This repository contains all the necessary files to view and customize the form, including a screenshot of the webpage for reference.
+
+Project Overview
+The job application form includes the following sections:
+
+Personal Information: Fields for name, email, phone number, and address.
+Position Details: Drop-down menus and text fields to specify the position applied for, desired salary, and start date.
+Education and Experience: Text areas for educational background, work experience, and skills.
+Attachments: Option to upload a resume and cover letter.
+Submission: A submit button to send the application.
+
+Files in This Repository
+index.html: The HTML file containing the structure of the job application form.
+styles.css: The CSS file for styling the form, ensuring it is visually appealing and responsive.
+screenshot.png: A screenshot of the job application form webpage, showcasing the final design.
+
+Features
+Responsive Design: The form layout adjusts to different screen sizes, making it accessible on both desktop and mobile devices.
+User-Friendly Interface: Clear labels and organized sections guide applicants through the form, making the application process straightforward.
+Customizable: The HTML and CSS code can be easily modified to fit different design preferences and additional form fields can be added as needed.
+
+Contributions
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to create a pull request or open an issue in this repository.
+
+License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as long as proper credit is given.
+
+Feel free to reach out if you have any questions or need further assistance. Happy coding!
+
+Contact Information:
+
+Email: shariqfazal123@gmail.com
+GitHub: shariq001
+Thank you for checking out my project!
