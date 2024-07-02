@@ -1,0 +1,18 @@
+Parallax Website Using HTML and CSS
+Project Description
+This project showcases a simple, visually engaging parallax scrolling website built exclusively with HTML and CSS. The parallax effect, where the background content moves at a different speed than the foreground content while scrolling, creates a sense of depth and immersion, enhancing the user experience.
+
+Features
+Parallax Scrolling Effect: Implemented using CSS properties such as background-attachment: fixed; to create a smooth, scrolling effect.
+Responsive Design: Designed to be responsive across different devices and screen sizes, ensuring a seamless experience on desktops, tablets, and mobile phones.
+Minimalist Aesthetic: Focused on a clean and minimalistic design to highlight the parallax effect without overwhelming the user.
+
+Technologies Used
+HTML5: For structuring the content of the webpage.
+CSS3: For styling and implementing the parallax effect.
+
+Contributions
+Feel free to fork the repository, make changes, and submit a pull request. Contributions are welcome!
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
