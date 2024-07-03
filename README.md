@@ -31,4 +31,4 @@ Contribution
 Feel free to fork this repository, explore the projects, and contribute your own HTML and CSS creations. Your contributions are valuable in enriching this repository as a resource for the web development community.
 
 Contact
-For questions, feedback, or collaboration opportunities, feel free to reach out via GitHub or email at muhammadshariqfazal@gmail.com
+For questions, feedback, or collaboration opportunities, feel free to reach out via GitHub or email at shariqfazal123@gmail.com
