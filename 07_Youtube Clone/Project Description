@@ -1,0 +1,18 @@
+YouTube Clone
+This project is a responsive clone of YouTube, built using only HTML and CSS. The clone replicates the basic structure and styling of YouTube's main interface, including the navigation bar, sidebar, search functionality, and video cards.
+
+Features
+Responsive Design: The layout adapts seamlessly to various screen sizes, from desktops to tablets and mobile phones.
+Navigation Bar: Includes a logo, search bar, microphone icon, and user profile icons.
+Sidebar: Contains icons and labels for Home, Explore, Subscriptions, and Library.
+Video Cards: Displays video thumbnails, titles, channel names, view counts, and upload times.
+Technologies Used
+HTML
+CSS
+
+Connect with Me
+Follow my Facebook page for more updates and projects: https://www.facebook.com/profile.php?id=61561612011431
+
+License
+This project is licensed under the MIT License.
+
