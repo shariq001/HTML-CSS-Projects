@@ -1,0 +1,31 @@
+Blogging Website
+Project Description
+Welcome to the Blogging Website project! This repository showcases a simple yet elegant blogging website, designed and implemented using only HTML and CSS. The website features two main pages: the Home page and the Post page. It also includes icons for popular social media platforms such as Instagram, Twitter, and LinkedIn, enhancing user connectivity and engagement.
+
+Features
+Home Page: Serves as the landing page of the blog, displaying a list of recent posts and an introduction section.
+Post Page: Dedicated page for individual blog posts, allowing readers to focus on one article at a time.
+Social Media Icons: Includes clickable icons for Instagram, Twitter, and LinkedIn, providing easy access to social media profiles.
+Responsive Design: Fully responsive layout ensuring optimal viewing experience across a variety of devices and screen sizes.
+Technologies Used
+HTML: The backbone of the website, structuring the content in a meaningful and accessible way.
+CSS: Styles the website, creating an appealing and user-friendly interface.
+Screenshots
+Home Page
+Post Page
+
+Usage
+Explore the Home page to see a list of recent blog posts.
+Click on any post title to navigate to the Post page and read the full article.
+Use the social media icons to visit the corresponding profiles.
+
+Contributing
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Thank you for visiting this project! Feel free to explore, use, and contribute. If you have any questions or feedback, please open an issue in the repository.
+
+Author: Muhammad Shariq
+GitHub: shariq001
