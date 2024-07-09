@@ -1,0 +1,30 @@
+My Portfolio Website
+Welcome to my GitHub repository for my portfolio website! This project showcases a responsive design website built solely with HTML and CSS. The purpose of this site is to provide a central place to display all of my projects, along with my contact details.
+
+Features
+Responsive Design: The website is fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones.
+Project Showcase: Each of my projects is displayed with a brief description, technologies used, and a link to the live demo or GitHub repository.
+Contact Information: At the bottom of the site, you will find my contact details, making it easy for potential collaborators or employers to reach out to me.
+Technologies Used
+HTML: The structure of the website is built using semantic HTML5 elements, ensuring a clean and accessible codebase.
+CSS: The styling is done with CSS3, incorporating modern design principles and techniques to create an aesthetically pleasing and functional user interface.
+Layout and Design
+
+The website consists of several sections, each serving a specific purpose:
+Header: Contains the navigation menu, allowing easy access to different sections of the site.
+About Me: A brief introduction about myself and my professional background.
+Projects: A gallery showcasing my projects, each with a description and relevant links.
+Contact: A section with my contact details, including email and social media links.
+
+Contributing
+I welcome contributions to improve the website! If you have any suggestions or improvements, please feel free to create a pull request or open an issue.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Contact
+Feel free to reach out to me via email at shariqfazal123@gmail.com
+Facebook Page: https://www.facebook.com/profile.php?id=61561612011431
+Instagram: https://www.instagram.com/mu_shariq1/
+
+Thank you for visiting my portfolio website repository. I hope you find it informative and engaging!
