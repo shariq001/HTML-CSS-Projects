@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, html {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+    scroll-behavior: smooth;
+    color: #423f32;
+    background: #cdcfc0;
+}
+
+.img-content img {
+    border: 1px solid #423f32; border-radius: 50px 50px 0  0;
+}
+.text-container {
+    display: flex; justify-content: center; gap: 5px; margin: 50px 0;
+}
+.text-content h1 {
+    font-size: 37px; font-family: cursive; color: #423f32; font-weight: 100; 
+}
+
+.text-content h1:hover {
+    color: rgb(18, 109, 15);
+}
+.text-container p {
+    font-size: 15px;
+}
+
+/* Navigation Section */
+
+.navi ul {
+    list-style: none; display: flex; flex-direction: column; align-items: center; 
+}
+.navi ul li {
+    border: 1px solid #423f32; margin: 15px auto; padding: 5px 100px;
+}
+#menu {
+    padding: 5px 150px;
+}
+#season {
+    padding: 5px 110px;
+}
+#cafe {
+    padding: 5px 116px;
+}
+#delivery {
+    padding: 5px 123px;
+}
+#about {
+    padding: 5px 137px;
+}
+#advocacy {
+    padding: 5px 120px;
+}
+
+.nav-section {
+    background: #f1ebe5; 
+}
+
+.navi {
+    background: #f1ebe5;  border: none; padding: 10px 20px;
+}
+.container {
+    display: flex; justify-content: center; gap: 80px; margin: 100px auto;
+}
+
+.icons ul {
+    list-style: none; display: flex; justify-content: center; gap: 23px;
+}
+.icons ul i {
+    font-size: 22px; color: #423f32; margin-bottom: 10px;
+}
+.icons ul i:hover {
+    font-size: 24px; color: darkgreen;
+}
+
+.navi ul li:hover {
+    border: 2px solid darkgreen; 
+}
+
+@media (max-width:500px) {
+    html {
+        font-size: 50%;
+    }
+    .container {
+        display: flex; flex-direction: column;
+    }
+    #season {
+        padding: 5px 130px;
+    }
+    #cafe {
+        padding: 5px 134px;
+    }
+    #delivery {
+        padding: 5px 137px;
+    }
+    #about {
+        padding: 5px 144px;
+    }
+    #advocacy {
+        padding: 5px 135px;
+    }
+}
